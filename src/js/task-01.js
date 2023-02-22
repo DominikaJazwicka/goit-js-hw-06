@@ -11,3 +11,5 @@ console.log(`Numbers of categories ${quantity}`)
 
 
 
+
+
